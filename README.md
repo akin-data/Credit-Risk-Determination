@@ -14,6 +14,7 @@ Key Features & Methodology
 • Interactive Deployment: Built a comprehensive R Shiny dashboard to visualize key scorecard metrics and simulate future customer portfolio tracking data.
 
 Repository Structure
+
 ├── data/
 │   └── (Raw or synthetic credit data files)
 ├── scripts/
